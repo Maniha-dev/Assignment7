@@ -1,0 +1,54 @@
+hr{
+    width: 1000px;
+    background-color: #cfd6d4;
+    color: #cfd6d4;
+    height: 3px;
+}
+h3{
+   
+    
+    color: #75726f;
+    text-align: center;
+   font-family: 'Oswald';
+   font-size: 30px;
+   letter-spacing: 2px;
+   line-height: 50px;
+   background-color: #bdd2cd;
+  
+}
+#P {
+    text-align: center;
+    line-height: 0px;
+    font-family: 'Lato';
+    padding-left: 10PX;
+}
+P{
+    font-family: 'Lato';
+    font-size: larger;
+    padding-left: 100PX;
+}
+h2{
+    color: #75726f;
+    text-align: center;
+   font-family: 'Oswald';
+   font-size: 30px;
+   letter-spacing: 2px;
+   line-height: 50px;
+   background-color: none;
+}
+#full {
+    color: #616667;
+    padding-left: 100PX;
+}
+#hr{
+    width: 600px;
+}
+#PD{
+    padding-right: 100PX;
+}
+#NP{
+    padding-left: 0PX;
+}
+table{
+    padding-left: 350PX;
+}
